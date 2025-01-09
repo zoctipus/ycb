@@ -1,0 +1,25 @@
+.operationBar{
+    width: 400px;
+    height: 24px;
+    bottom: 12px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    box-shadow: 0 0 5px #ccc;
+}
+.icon{
+    height: 24px;
+}
+
+.custom-switch {
+    padding: 0; /* Adjust padding if necessary */
+    border-radius: 4px; /* Set border radius */
+  }
+  
+  .custom-switch .ant-switch-checked {
+    background-color: #fff; /* Set the background color when checked */
+  }
+  
+  .custom-switch .ant-switch {
+    border: 1px solid #ccc; /* Set border color */
+  }
